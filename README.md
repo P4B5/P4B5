@@ -2,6 +2,21 @@
 
 I'm a Robotics Software engineering student :robot:
 
+- 🔭 I’m currently working on building a drone: [Icarus-Drone](https://github.com/RoboTech-URJC/Icarus-Project)
+- 🌱 I’m currently learning ROS, ROS2, Navigation algorithms.
+- 👯 I’m looking to collaborate on Autonomous vehicles/robots
+
+<br></br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=P4B5&theme=calm&show_icons=true" alt="P4B5's github stats"/>
+</a>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4B5&layout=compact&theme=calm&card_width=350" alt="P4B5's github stats" />
+</a>
+
 
 <!--
 **P4B5/P4B5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +31,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🔭 I’m currently working on building a drone 
+- 🔭 I’m currently working on building a drone
 -->
