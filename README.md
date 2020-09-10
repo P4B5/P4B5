@@ -6,7 +6,6 @@ I'm a Robotics Software engineering student :robot:
 - 🌱 I’m currently learning ROS, ROS2, Navigation algorithms.
 - 👯 I’m looking to collaborate on Autonomous vehicles/robots
 
-<br></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=P4B5&theme=calm&show_icons=true" alt="P4B5's github stats"/>
