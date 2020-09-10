@@ -14,7 +14,7 @@ I'm a Robotics Software engineering student :robot:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4B5&layout=compact&theme=calm&card_width=350" alt="P4B5's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P4B5&layout=compact&theme=calm" alt="P4B5's github stats" />
 </a>
 
 
