@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a Robotics Software engineering student :robot:
+I'm a Robotics Software engineering student, trying not to set on fire the things I touch, but indeed it's the best way to learn :robot:
 
 - 🔭 I’m currently working on building a drone: [Icarus-Drone](https://github.com/RoboTech-URJC/Icarus-Project)
 - 🌱 I’m currently learning ROS, ROS2, Navigation algorithms.
