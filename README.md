@@ -3,6 +3,7 @@
 I'm a Robotics Software Engineering student at URJC University
 
 - 🔭 I’m currently working on building some code and hardware for a drone: [Icarus-Drone](https://github.com/RoboTech-URJC/Icarus-Project)
+- :soccer: I'm currently contributing to build the first RobotechVirtualChallenge: [RobotechVirtualChallenge](https://github.com/RoboTech-URJC/RobotechVirtualChallenge)
 - 🌱 I’m currently learning ROS, ROS2, Navigation algorithms.
 - 👯 I’m looking to collaborate on manned/unmanned vehicles/robots
 
