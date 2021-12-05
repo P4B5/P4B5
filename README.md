@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a Robotics Software Engineering student at URJC University 🇪🇸, currently learning more in IST Lisboa 🇵🇹
+I'm a Robotics Software Engineering student at URJC University 🇪🇸, currently at IST Lisboa 🇵🇹
 
 - 🔭 I’m currently working on building some code and hardware for a drone: [Icarus-Drone](https://github.com/RoboTech-URJC/Icarus-Project)
 - :soccer: I'm currently contributing to build the first RobotechVirtualChallenge: [RobotechVirtualChallenge](https://github.com/RoboTech-URJC/RobotechVirtualChallenge)
